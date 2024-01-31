@@ -1,0 +1,5 @@
+.bg {
+  background-image: url(./src/assets/bg/hhholographic.jpeg);
+  background-size: cover;
+  object-fit: cover;
+}
